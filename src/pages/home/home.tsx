@@ -39,7 +39,7 @@ function Home() {
                   {post.id}. {post.title}
                 </h2>
                 <p className={styles.cardDescription}>{post.body}</p>
-                <button onClick={() => handleOnClick(index)}>Просмотр</button>
+                <button onClick={() => handleOnClick(post.id)}>Просмотр</button>
               </div>
             ))
           }
