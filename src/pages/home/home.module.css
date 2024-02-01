@@ -1,6 +1,42 @@
+.heading {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #9e9e9e;
+  font-size: 24px;
+}
+
 .card {
-    height: 30px;
-    border: 1px solid green;
-    margin: 6px;
-    padding: 8px;
+  height: 30px;
+  border: 1px solid #9e9e9e;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardHeading {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 16px;
+  max-width: 750px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cardDescription {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  max-width: 800px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.info {
+  text-align: center;
 }
