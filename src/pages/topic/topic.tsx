@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './topic.module.css';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useGetPostByIdQuery } from '../../store/api/topics.api';
