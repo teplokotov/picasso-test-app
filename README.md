@@ -5,7 +5,9 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![Rest API](https://img.shields.io/badge/rest_api-%2320232a.svg?style=for-the-badge&logo=rest&logoColor=white)](https://ru.wikipedia.org/wiki/REST)
 
-🌐 [https://github.com/teplokotov/picasso-test-app/](https://github.com/teplokotov/picasso-test-app/)
+[![image](https://github.com/teplokotov/picasso-test-app/assets/118915923/c29131cb-d90b-411e-a156-3a85d7fa3ce1)](https://teplokotov.github.io/picasso-test-app/)
+
+🌐 [https://teplokotov.github.io/picasso-test-app/](https://teplokotov.github.io/picasso-test-app/)
 
 ### Требования
 Используя React, TypeScript (обязательно), RTK Query, React Router DOM 6, JSON Placeholder и FSD-архитектуру сделайте простое приложение: 
